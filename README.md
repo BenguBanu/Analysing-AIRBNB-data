@@ -16,3 +16,8 @@ I put all the questions answer in one notebook
 
 I generally used Pandas , Seaborn and Matplotlib libraries
 and used Boston and Seattle Airbnb data set of 2016 and 2017
+
+
+Medium Blog link
+
+https://medium.com/@bengubanudonmez/are-you-willing-to-be-a-data-scientist-ce6874e77b3f
