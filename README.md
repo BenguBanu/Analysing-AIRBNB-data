@@ -10,3 +10,8 @@ How is price changing city by city of Seattle airbnbs
 **Seattle Boston Airbnbs Price Comparison ipynb, I got answer of this question:
 How is price changing when comparing Seattle and Boston airbnbs?
 
+**Analysing Seattle and Boston Airbnb data.ipynb 
+I put all the questions answer in one notebook
+
+
+I generally used Pandas , Seaborn and Matplotlib libraries
